@@ -2,7 +2,7 @@
 <p> 🔭 Estou trabalhando em um sistema para arquiteto, com exposição de portfolios e cadastro de dados em um BD. **Venusta Arquitetura**</p>
 <p> 💻 Sou estudante de Ciência da Computação e estou no terceiro semestre.</p>
 <p> 📄 Sou Técnica de Informática pelo Senac DF. </p>
-<p> 📄 Sou desenvolvedora no programa appla academy UCB.</p>
+<p> 👩‍💻 Sou desenvolvedora no programa Apple Academy UCB.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
