@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 Olá, Eu sou a Linda Marie</h1>
 <p> 🔭 Estou trabalhando em um sistema para arquiteto, com exposição de portfolios e cadastro de dados em um BD. **Venusta Arquitetura**</p>
-<p> 💻 Sou estudante de Ciência da Computação e estou no segundo semestre.</p>
-<p> 📄 Estou em processo de conclusão do meu curso Técnico de Informática pelo Senac DF. </p>
+<p> 💻 Sou estudante de Ciência da Computação e estou no terceiro semestre.</p>
+<p> 📄 Sou Técnica de Informática pelo Senac DF. </p>
+<p> 📄 Sou desenvolvedora no programa appla academy UCB.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
